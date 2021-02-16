@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NbN12
-- 👀 I’m interested in Developing new things and experimental with new tech.
-- 🌱 I’m currently learning Software Architecture
+- 👋 Hi, I’m Nguyen
+- 👀 I’m interested in creating and experimenting any new projects.
+- 🌱 I’m currently learning "Software Architecture" + "Financial"
 - 💞️ I’m looking to collaborate on some fancy projects
-- 📫 How to reach me => GitHub.com/NbN12
+- 📫 How to reach me ... (Comming soon)
 
 <!---
 NbN12/NbN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
